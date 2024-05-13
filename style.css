@@ -33,13 +33,14 @@ button {
     font-family: 'Gloria Hallelujah', cursive;
 }
 img{
-    border: 5px solid yellow;
-    width:200px;
-    height:200px;
+    border: 5px solid ;
+    width:250px;
+    height:250px;
 }
 
 
 .pop-icon {
-    width: 200px;
+    width: 600px;
+    height:400px;
     border:none;
 }
